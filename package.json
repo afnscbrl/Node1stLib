@@ -1,0 +1,17 @@
+
+{
+  "dependencies": {
+    "chalk": "^5.0.0"
+  },
+  "name": "node1stlib",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+  
+}
